@@ -1,0 +1,1 @@
+int CheckSeparators(char symb);
